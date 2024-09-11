@@ -1,0 +1,6 @@
+[cache_path]
+torch = "F:/cache/path/to/torch"
+sentence_transformers = "F:/cache/path/to/sentence-transformers"
+
+[model_path]
+sentence_transformers = "F:/M/models - embedding/sentence-transformers"

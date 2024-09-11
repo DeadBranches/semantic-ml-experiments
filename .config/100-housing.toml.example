@@ -1,0 +1,10 @@
+[embedding]
+    [instruction]
+    # Instructions used during embedding creation
+    document = "Represent the funny email for retrieval"
+    query = "Represent the email question for retrieving related emails"
+
+    # Document queries
+    [query_strings]
+    accommodations_requested = "What accommodations can a cat make with a cow?"
+    cognitive_impairment = "Do bunnies have cognitive impairments?"

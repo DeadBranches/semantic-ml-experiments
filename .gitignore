@@ -1,0 +1,16 @@
+# Use as a whitelist
+*
+!*/
+!**/.gitignore
+
+
+# Include .py, .ipynb, .pdf, and .md files in any subdirectory.
+!**/*.py
+!**/*.pdf
+!**/*.md
+!**/*.ipynb
+
+# Include configuration file examples
+!**/*.toml.example
+
+#!3*-*/**
