@@ -13,4 +13,6 @@
 # Include configuration file examples
 !**/*.toml.example
 
+# Include processed source files
+!**/sources-*/*.txt
 #!3*-*/**
